@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @luverolla
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-luverolla/luverolla is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi everyone, I’m Luigi
+- 🎓 I am an IT Engineering undergraduate student
+- 👀 I am interested in Java EE programming and Web developing
+- 🌱 I’m currently learning Java Spring framework and SCSS preprocessor
+- 📫 You can reach me by [email](mailto:luverolla@outlook.com) or on Twitter or Instagram: the nick for both is `luverolla`
