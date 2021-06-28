@@ -1,5 +1,8 @@
 - 👋 Hi everyone, I’m Luigi
 - 🎓 I am an IT Engineering undergraduate student
 - 👀 I am interested in Java EE programming and Web developing
-- 🌱 I’m currently learning Java Spring framework and SCSS preprocessor
-- 📫 You can reach me by [email](mailto:luverolla@outlook.com) or on Twitter or Instagram: the nick for both is `luverolla`
+- 🌱 I’m currently learning Java Spring Boot framework and SCSS preprocessor
+- 📫 You can reach me:
+  -  sending an email to [luverolla@outlook.com](mailto:luverolla@outlook.com)
+  -  on Twitter: the nick is `luverolla`
+  -  on Discord: the nick is `luverolla#6576`
