@@ -1,5 +1,5 @@
 - 👋 Hi everyone, I’m Luigi
-- 🎓 I am an IT Engineering undergraduate student
+- 🎓 I am an IT Engineering undergraduate student at University of Salerno, Italy
 - 👀 I am interested in Java EE programming and Web developing
 - 🌱 I’m currently learning Java Spring Boot framework and SCSS preprocessor
 - 📫 You can reach me:
