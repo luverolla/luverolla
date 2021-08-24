@@ -2,7 +2,4 @@
 - 🎓 I am an IT Engineering undergraduate student at University of Salerno, Italy
 - 👀 I am interested in Java EE programming and Web developing
 - 🌱 I’m currently learning Java Spring Boot framework and SCSS preprocessor
-- 📫 You can reach me:
-  -  sending an email to [luverolla@outlook.com](mailto:luverolla@outlook.com)
-  -  on Twitter: the nick is `luverolla`
-  -  on Discord: the nick is `luverolla#6576`
+- 📫 You can reach me by email: [luverolla@outlook.com](mailto:luverolla@outlook.com)
