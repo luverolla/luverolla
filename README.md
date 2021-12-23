@@ -1,3 +1,3 @@
 - 👋 Hi everyone, I’m Luigi from Italy
 - 🎓 I am an IT Engineering undergraduate student at University of Salerno, Italy
-- 📫 You can reach me by email (address on my homepage) or on <pre style="display:inline"><a rel="me" href="https://mastodon.uno/@luverolla">Mastodon</a></pre>
+- 📫 You can reach me by email (address on my homepage) or on <a href="https://mastodon.uno/@luverolla">Mastodon</a>
