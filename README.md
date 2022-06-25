@@ -1,4 +1,1 @@
-- 👋 Hi everyone, I’m Luigi from Italy
-- 🎓 I am an IT Engineering undergraduate student at University of Salerno, Italy
-- 💻 I am interested in software developing, both backend (Java, Spring Boot) and frontend (React, Swift) and embedded (C/C++, MbedOS, ChibiOS)
-- 📫 You can reach me by email (address on my homepage) or on [Mastodon](https://mastodon.uno/@luverolla)
+
